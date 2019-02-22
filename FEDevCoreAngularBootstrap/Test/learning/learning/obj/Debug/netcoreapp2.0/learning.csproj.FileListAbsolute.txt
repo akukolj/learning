@@ -1,0 +1,11 @@
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\bin\Debug\netcoreapp2.0\learning.deps.json
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\bin\Debug\netcoreapp2.0\learning.runtimeconfig.json
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\bin\Debug\netcoreapp2.0\learning.runtimeconfig.dev.json
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\bin\Debug\netcoreapp2.0\learning.dll
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\bin\Debug\netcoreapp2.0\learning.pdb
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\obj\Debug\netcoreapp2.0\learning.csprojAssemblyReference.cache
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\obj\Debug\netcoreapp2.0\learning.csproj.CoreCompileInputs.cache
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\obj\Debug\netcoreapp2.0\learning.AssemblyInfoInputs.cache
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\obj\Debug\netcoreapp2.0\learning.AssemblyInfo.cs
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\obj\Debug\netcoreapp2.0\learning.dll
+D:\Learning\FEDevCoreAngularBootstrap\Test\learning\learning\obj\Debug\netcoreapp2.0\learning.pdb

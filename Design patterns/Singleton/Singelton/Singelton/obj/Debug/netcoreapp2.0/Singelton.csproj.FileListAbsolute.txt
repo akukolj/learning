@@ -1,0 +1,11 @@
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\bin\Debug\netcoreapp2.0\Singelton.deps.json
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\bin\Debug\netcoreapp2.0\Singelton.runtimeconfig.json
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\bin\Debug\netcoreapp2.0\Singelton.runtimeconfig.dev.json
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\bin\Debug\netcoreapp2.0\Singelton.dll
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\bin\Debug\netcoreapp2.0\Singelton.pdb
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\obj\Debug\netcoreapp2.0\Singelton.csprojAssemblyReference.cache
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\obj\Debug\netcoreapp2.0\Singelton.csproj.CoreCompileInputs.cache
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\obj\Debug\netcoreapp2.0\Singelton.AssemblyInfoInputs.cache
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\obj\Debug\netcoreapp2.0\Singelton.AssemblyInfo.cs
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\obj\Debug\netcoreapp2.0\Singelton.dll
+D:\Learning\Design patterns\Singleton\Singelton\Singelton\obj\Debug\netcoreapp2.0\Singelton.pdb

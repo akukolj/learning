@@ -1,0 +1,11 @@
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\ReusableGenericRepository.dll.config
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\ReusableGenericRepository.dll
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\ReusableGenericRepository.pdb
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\EntityFramework.dll
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\EntityFramework.xml
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\obj\Debug\SharedKernel.Data.csprojResolveAssemblyReference.cache
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\obj\Debug\SharedKernel.Data.csproj.CoreCompileInputs.cache
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\obj\Debug\ReusableGenericRepository.dll
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\ReusableGenericRepository\obj\Debug\ReusableGenericRepository.pdb

@@ -1,0 +1,11 @@
+D:\Learning\FEDevCoreAngularBootstrap\bin\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.deps.json
+D:\Learning\FEDevCoreAngularBootstrap\bin\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.runtimeconfig.json
+D:\Learning\FEDevCoreAngularBootstrap\bin\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.runtimeconfig.dev.json
+D:\Learning\FEDevCoreAngularBootstrap\bin\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.dll
+D:\Learning\FEDevCoreAngularBootstrap\bin\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.pdb
+D:\Learning\FEDevCoreAngularBootstrap\obj\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.csprojAssemblyReference.cache
+D:\Learning\FEDevCoreAngularBootstrap\obj\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.csproj.CoreCompileInputs.cache
+D:\Learning\FEDevCoreAngularBootstrap\obj\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.AssemblyInfoInputs.cache
+D:\Learning\FEDevCoreAngularBootstrap\obj\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.AssemblyInfo.cs
+D:\Learning\FEDevCoreAngularBootstrap\obj\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.dll
+D:\Learning\FEDevCoreAngularBootstrap\obj\Debug\netcoreapp2.0\FEDevCoreAngularBootstrap.pdb

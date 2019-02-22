@@ -1,0 +1,11 @@
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.deps.json
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.runtimeconfig.json
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.runtimeconfig.dev.json
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.dll
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\bin\Debug\netcoreapp2.0\DutchTreat.pdb
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.csproj.CoreCompileInputs.cache
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfoInputs.cache
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfo.cs
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.dll
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.pdb
+D:\Learning\BuildingASPnetEFBootstrap\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.csprojResolveAssemblyReference.cache

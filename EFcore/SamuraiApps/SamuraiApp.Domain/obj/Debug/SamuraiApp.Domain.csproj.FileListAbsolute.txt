@@ -1,0 +1,6 @@
+D:\Learning\EFcore\SamuraiApps\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll
+D:\Learning\EFcore\SamuraiApps\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.pdb
+D:\Learning\EFcore\SamuraiApps\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache
+D:\Learning\EFcore\SamuraiApps\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\EFcore\SamuraiApps\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.dll
+D:\Learning\EFcore\SamuraiApps\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.pdb

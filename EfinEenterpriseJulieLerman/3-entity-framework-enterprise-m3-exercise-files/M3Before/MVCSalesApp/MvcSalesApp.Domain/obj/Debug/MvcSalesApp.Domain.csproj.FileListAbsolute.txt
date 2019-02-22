@@ -1,0 +1,6 @@
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\MvcSalesApp.Domain\bin\Debug\MvcSalesApp.Domain.dll
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\MvcSalesApp.Domain\bin\Debug\MvcSalesApp.Domain.pdb
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.csprojResolveAssemblyReference.cache
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.dll
+D:\Learning\EfinEenterpriseJulieLerman\3-entity-framework-enterprise-m3-exercise-files\M3Before\MVCSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.pdb

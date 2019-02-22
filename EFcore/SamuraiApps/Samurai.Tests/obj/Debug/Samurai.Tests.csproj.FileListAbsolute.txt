@@ -1,0 +1,13 @@
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Samurai.Tests.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Samurai.Tests.pdb
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\obj\Debug\Samurai.Tests.csprojResolveAssemblyReference.cache
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\obj\Debug\Samurai.Tests.csproj.CoreCompileInputs.cache
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\obj\Debug\Samurai.Tests.dll
+D:\Learning\EFcore\SamuraiApps\Samurai.Tests\obj\Debug\Samurai.Tests.pdb

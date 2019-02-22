@@ -1,0 +1,7 @@
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\bin\Debug\Introduction.exe.config
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\bin\Debug\Introduction.exe
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\bin\Debug\Introduction.pdb
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\obj\Debug\Introduction.exe
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\obj\Debug\Introduction.pdb
+D:\Learning\LINQFunamentalsScottAllen\LINQFunamentalsScottAllen\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache

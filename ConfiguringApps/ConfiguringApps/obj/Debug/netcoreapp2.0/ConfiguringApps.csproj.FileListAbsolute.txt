@@ -1,0 +1,11 @@
+D:\Learning\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.deps.json
+D:\Learning\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.json
+D:\Learning\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.dev.json
+D:\Learning\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.dll
+D:\Learning\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csproj.CoreCompileInputs.cache
+D:\Learning\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfoInputs.cache
+D:\Learning\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfo.cs
+D:\Learning\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.pdb
+D:\Learning\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.dll
+D:\Learning\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.pdb
+D:\Learning\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csprojAssemblyReference.cache

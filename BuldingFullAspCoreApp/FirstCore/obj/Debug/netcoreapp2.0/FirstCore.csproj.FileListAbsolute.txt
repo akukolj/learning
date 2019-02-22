@@ -1,0 +1,10 @@
+D:\Learning\BuldingFullAspCoreApp\FirstCore\bin\Debug\netcoreapp2.0\FirstCore.deps.json
+D:\Learning\BuldingFullAspCoreApp\FirstCore\bin\Debug\netcoreapp2.0\FirstCore.runtimeconfig.json
+D:\Learning\BuldingFullAspCoreApp\FirstCore\bin\Debug\netcoreapp2.0\FirstCore.runtimeconfig.dev.json
+D:\Learning\BuldingFullAspCoreApp\FirstCore\bin\Debug\netcoreapp2.0\FirstCore.dll
+D:\Learning\BuldingFullAspCoreApp\FirstCore\bin\Debug\netcoreapp2.0\FirstCore.pdb
+D:\Learning\BuldingFullAspCoreApp\FirstCore\obj\Debug\netcoreapp2.0\FirstCore.csproj.CoreCompileInputs.cache
+D:\Learning\BuldingFullAspCoreApp\FirstCore\obj\Debug\netcoreapp2.0\FirstCore.AssemblyInfoInputs.cache
+D:\Learning\BuldingFullAspCoreApp\FirstCore\obj\Debug\netcoreapp2.0\FirstCore.AssemblyInfo.cs
+D:\Learning\BuldingFullAspCoreApp\FirstCore\obj\Debug\netcoreapp2.0\FirstCore.dll
+D:\Learning\BuldingFullAspCoreApp\FirstCore\obj\Debug\netcoreapp2.0\FirstCore.pdb
