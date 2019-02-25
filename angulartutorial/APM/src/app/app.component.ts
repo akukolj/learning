@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
   </ul>
   <router-outlet></router-outlet>`
 })
-export class AppComponent{
+export class AppComponent {
   pageTitle = 'Acme product';
 }

@@ -4,7 +4,7 @@
     </div>
     <div class="card-body">
         <div class="row">
-            <div class="col-md-1">Fileter by:</div>
+            <div class="col-md-1">Filter by:</div>
             <div class="col-md-1">
                 <input type="text" [(ngModel)]="listFilter"/>
             </div>
@@ -26,7 +26,7 @@
                     </th>
                     <th>Product</th>
                     <th>Code</th>
-                    <th>Availne</th>
+                    <th>Available</th>
                     <th>Price</th>
                     <th>5 star rating</th>
                 </tr>
@@ -38,7 +38,9 @@
                         [src]='product.imageUrl' [title]='product.productName' [style.width.px]='imageWidth' [style.margin.px] = 'imageMargin'>
                     </td>
                     <td>
-                        {{product.productName}}
+                        <a [routerLink]="[ '/products', product.productId ]">
+                            {{product.productName}}
+                        </a>                        
                     </td>
                     <td>
                         {{product.productCode | lowercase | convertToSpaces: '-' }}
