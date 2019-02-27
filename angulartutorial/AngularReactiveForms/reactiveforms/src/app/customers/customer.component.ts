@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators, AbstractControl, ValidatorFn} from '@angular/forms';
 
 import { Customer } from './customer';
+import { of } from 'rxjs';
+import { debounceTime, debounce } from 'rxjs/operators'
 
 function ratingRange(max: number, min: number): ValidatorFn {
   return (c: AbstractControl): { [key: string]: boolean} | null  => {
@@ -33,6 +35,13 @@ function emailMatcher(c: AbstractControl): {[key: string]: boolean} | null {
 export class CustomerComponent implements OnInit {
   customer = new Customer();
   customerForm: FormGroup;
+  emailMessage: string;
+
+  private validationMessages = {
+    required: 'Please enter your email address',
+    email: 'please enter a valid email address'
+  };
+
   constructor(private fb: FormBuilder) { }
 
   ngOnInit() {
@@ -48,6 +57,13 @@ export class CustomerComponent implements OnInit {
       notification: 'email',
       rating: [null, ratingRange(5, 1)]
     });
+    this.customerForm.get('notification').valueChanges.subscribe(
+      value => this.setNotification(value)
+    );
+    const emailControl = this.customerForm.get('emailGroup.email');
+    emailControl.valueChanges.pipe(debounceTime(1000)).subscribe(
+      value => this.setMessage(emailControl)
+    );
   }
 
   populateTestData(): void {
@@ -62,6 +78,14 @@ export class CustomerComponent implements OnInit {
   save() {
     console.log(this.customerForm);
     console.log('Saved: ' + JSON.stringify(this.customerForm.value));
+  }
+
+  setMessage(c: AbstractControl): void {
+    this.emailMessage = '';
+    if ((c.touched || c.dirty) && c.errors) {
+      this.emailMessage = Object.keys(c.errors).map(
+        key => this.emailMessage += this.validationMessages[key]).join('');
+    }
   }
 
   setNotification(notifyVal: string): void {
