@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import { FormGroup, FormBuilder, Validators, AbstractControl, ValidatorFn} from '@angular/forms';
+import { FormGroup, FormBuilder, FormArray, Validators, AbstractControl, ValidatorFn} from '@angular/forms';
 
 import { Customer } from './customer';
 import { of } from 'rxjs';
-import { debounceTime, debounce } from 'rxjs/operators'
+import { debounceTime, debounce } from 'rxjs/operators';
 
 function ratingRange(max: number, min: number): ValidatorFn {
   return (c: AbstractControl): { [key: string]: boolean} | null  => {
@@ -37,6 +37,10 @@ export class CustomerComponent implements OnInit {
   customerForm: FormGroup;
   emailMessage: string;
 
+  get addresses (): FormArray {
+    return <FormArray>this.customerForm.get('addresses');
+  }
+
   private validationMessages = {
     required: 'Please enter your email address',
     email: 'please enter a valid email address'
@@ -55,7 +59,8 @@ export class CustomerComponent implements OnInit {
       sendCatalog: true,
       phone: '',
       notification: 'email',
-      rating: [null, ratingRange(5, 1)]
+      rating: [null, ratingRange(5, 1)],
+      addresses: this.fb.array([this.buildAddress()])
     });
     this.customerForm.get('notification').valueChanges.subscribe(
       value => this.setNotification(value)
@@ -66,6 +71,19 @@ export class CustomerComponent implements OnInit {
     );
   }
 
+  buildAddress(): FormGroup {
+    return  this.fb.group({
+      addressType: 'home',
+      street1: '',
+      street2: '',
+      city: '',
+      state: '',
+      zip: ''
+    });
+  }
+  addAddress(): void {
+    this.addresses.push(this.buildAddress());
+  }
   populateTestData(): void {
     this.customerForm.setValue({
       firstName: 'Jack',
